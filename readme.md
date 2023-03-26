@@ -1,5 +1,6 @@
 # Web-CRUD-list-film-dengan-login
-Program Web CRUD sederhana (list film yang sudah tertonton) dengan fitur login yang memanfaatkan framework codeigniter, database mysql dan pemanggilan alamat web menggunakan server Xampp untuk pembelajaran.
+#### (UPDATE dari versi sebelumnya)
+Program Web CRUD sederhana (list film yang sudah tertonton) dengan fitur login yang memanfaatkan framework codeigniter, database mysql dan pemanggilan alamat web menggunakan server Xampp untuk pembelajaran. 
 
 Website Demo Program : https://filog.epizy.com/
 
