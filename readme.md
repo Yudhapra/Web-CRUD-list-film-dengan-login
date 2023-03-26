@@ -26,3 +26,5 @@ seperti berikut :
 |      Email      | Password |  Level User |
 | --------------- | -------- | ----------- |
 | tes@gmail.com   |  123456  | Guest ( 3 ) |
+
+### *Password menggunakan encrypt md5, jadi untuk mengubahnya dapat menggunakan tools decrypt md5 terlebih dahulu.
